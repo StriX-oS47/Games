@@ -1,0 +1,60 @@
+{
+  "name": "Popular Games Collection",
+  "version": "1.0",
+  "games": [
+    {
+      "id": "spiderman-pc",
+      "title": "Marvels Spider-Man 2",
+      "year": 2023,
+      "platform": "PC",
+      "debrid": {
+        "provider": "Real-Debrid",
+        "hash": "https://filelist.io/download.php?id=907509",
+        "file_index": 0
+      },
+      "artwork": {
+        "poster": "https://image.tmdb.org/t/p/w500/your-poster-image.jpg",
+        "background": "https://image.tmdb.org/t/p/original/your-bg-image.jpg"
+      },
+      "executable": "SpiderMan2.exe",
+      "size": "98.5 GB",
+      "description": "Experience the next chapter in Marvel's Spider-Man universe as Miles Morales."
+    },
+    {
+      "id": "megabonk-pc",
+      "title": "Megabonk",
+      "year": 2024,
+      "platform": "PC",
+      "debrid": {
+        "provider": "Real-Debrid",
+        "hash": "51189E6CEEDB19CAF1D61D843577844466CC2010",
+        "file_index": 0
+      },
+      "artwork": {
+        "poster": "https://image.tmdb.org/t/p/w500/your-megabonk-poster.jpg",
+        "background": "https://image.tmdb.org/t/p/original/your-megabonk-bg.jpg"
+      },
+      "executable": "Megabonk.exe",
+      "size": "2.3 GB",
+      "description": "An action-packed arcade game with retro aesthetics."
+    },
+    {
+      "id": "ball-x-hit-pc",
+      "title": "BALL x PIT",
+      "year": 2024,
+      "platform": "PC",
+      "debrid": {
+        "provider": "Real-Debrid",
+        "hash": "50801D5048DDC4A8AC6373C2515B82653EF16A8D",
+        "file_index": 0
+      },
+      "artwork": {
+        "poster": "https://image.tmdb.org/t/p/w500/your-hitxball-poster.jpg",
+        "background": "https://image.tmdb.org/t/p/original/your-hitxball-bg.jpg"
+      },
+      "executable": "BALLxPIT.exe",
+      "size": "1.8 GB",
+      "description": "A unique blend of action and sports gameplay."
+    }
+  ]
+}
